@@ -1,0 +1,19 @@
+{
+  "name": "csvloader",
+  "version": "1.0.0",
+  "description": "ingest csv file to storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jatindersingh33/CSVLoader.git"
+  },
+  "author": "Jatinder Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jatindersingh33/CSVLoader/issues"
+  },
+  "homepage": "https://github.com/Jatindersingh33/CSVLoader#readme"
+}
