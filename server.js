@@ -1,7 +1,6 @@
 import express from 'express';
 import config from './config';
 import fs from 'fs';
-import {MongoClient} from 'mongodb';
 import mongoose from 'mongoose';
 
 const server = express();
